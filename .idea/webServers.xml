@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c33ee8d-4618-4c76-891d-84c3c119ed39" name="DDZ" url="https://co67818.tw1.ru">
+        <fileTransfer rootFolder="/home/c/co67818/public_html" accessType="SFTP" host="185.114.245.123" port="22" sshConfigId="5157d899-e366-4e82-9bc5-afdfb1babea2" sshConfig="co67818@185.114.245.123:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
