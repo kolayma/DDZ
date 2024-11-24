@@ -1,4 +1,8 @@
-.idea/
-bitrix/
-vendor/
-upload/
+/.idea
+/bitrix/
+/vendor/
+/upload/
+/logs/
+.zip
+.pdf
+.tar.gz
